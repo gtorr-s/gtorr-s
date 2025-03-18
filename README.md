@@ -1,4 +1,4 @@
-## Hello, I'm Gabriel Torres 👋
+## Hello there. I'm Gabriel Torres 👋
 
 - 🔭 I’m currently working on Bricks gerenciamento.
 - 🌱 I’m currently learning C# and .NET.
