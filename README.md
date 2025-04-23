@@ -1,6 +1,6 @@
 ## Hello there. I'm Gabriel Torres 👋
 
-- 🔭 I’m currently working on Bricks gerenciamento.
+- 🔭 I’m currently working on Bricks.
 - 🌱 I’m currently learning C# and .NET.
 - 👯 I’m looking to collaborate on Software Developer teams.
 - 🤔 I’m looking for help with Software Developer Roadmap.
