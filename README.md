@@ -1,11 +1,25 @@
-## Hello there. I'm Gabriel Torres 👋
+# 👋 Olá! Eu sou o Gabriel Crispino Torres
 
-- 🔭 I’m currently working on Bricks.
-- 🌱 I’m currently learning C# and .NET.
-- 👯 I’m looking to collaborate on Software Developer teams.
-- 🤔 I’m looking for help with Software Developer Roadmap.
-- 💬 Ask me about Python or any tech related stuff.
-- 📫 How to reach me: Click [...](https://www.linkedin.com/in/-gtorr/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Im training to become a BodyBuilder. 
+🎯 Desenvolvedor Backend com foco em Python e Java, apaixonado por construir APIs robustas e soluções escaláveis.
+
+💼 Atualmente atuando na Bricks Gerenciamento de Obras LTDA, liderando o desenvolvimento e manutenção de sistemas internos.
+
+🚀 Buscando oportunidades remotas para contribuir em equipes globais e enfrentar novos desafios técnicos.
+
+## 🛠️ Tecnologias & Ferramentas
+
+- **Linguagens**: Python, Java, PHP
+- **Frameworks**: Flask, Spring Boot
+- **Banco de Dados**: PostgreSQL, MongoDB, SQLite
+- **Outros**: Docker, Git, REST APIs
+
+## 📈 Projetos em Destaque
+
+- [HEP-AI](https://github.com/gtorr-s/HEP-AI): Modelo preditivo para diagnóstico de doenças hepáticas utilizando machine learning.:contentReference[oaicite:26]{index=26}
+
+- [MICK](https://github.com/gtorr-s/MICK): :contentReference[oaicite:28]{index=28}:contentReference[oaicite:30]{index=30}
+
+## 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/-gtorr)
 
