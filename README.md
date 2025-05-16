@@ -15,9 +15,9 @@
 
 ## 📈 Projetos em Destaque
 
-- [HEP-AI](https://github.com/gtorr-s/HEP-AI): Modelo preditivo para diagnóstico de doenças hepáticas utilizando machine learning.:contentReference[oaicite:26]{index=26}
+- [HEP-AI](https://github.com/gtorr-s/HEP-AI): Modelo preditivo para diagnóstico de doenças hepáticas utilizando machine learning.
 
-- [MICK](https://github.com/gtorr-s/MICK): :contentReference[oaicite:28]{index=28}:contentReference[oaicite:30]{index=30}
+- [MICK](https://github.com/gtorr-s/MICK)
 
 ## 📫 Contato
 
