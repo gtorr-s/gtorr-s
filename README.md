@@ -1,25 +1,43 @@
-# 👋 Olá! Eu sou o Gabriel Crispino Torres
+<h1 align="center">👋 Olá! Eu sou o Gabriel Crispino Torres</h1>
 
-🎯 Desenvolvedor Backend com foco em Python e Java, apaixonado por construir APIs robustas e soluções escaláveis.
+<p align="center">
+Desenvolvedor Backend focado em Python & Java | APIs REST • PostgreSQL • Docker • Flask • Spring Boot
+</p>
 
-💼 Atualmente atuando na Bricks Gerenciamento de Obras LTDA, liderando o desenvolvimento e manutenção de sistemas internos.
+---
 
-🚀 Buscando oportunidades remotas para contribuir em equipes globais e enfrentar novos desafios técnicos.
+🎯 Atualmente sou o único responsável técnico na área de TI da BRICKS, onde desenvolvo e mantenho sistemas internos e APIs em produção.
 
-## 🛠️ Tecnologias & Ferramentas
+🔍 Interesse especial por:
+- Desenvolvimento de sistemas escaláveis
+- Segurança da informação e cibersegurança
+- Machine Learning aplicado na prática
 
-- **Linguagens**: Python, Java, PHP
-- **Frameworks**: Flask, Spring Boot
-- **Banco de Dados**: PostgreSQL, MongoDB, SQLite
-- **Outros**: Docker, Git, REST APIs
+🚀 Buscando oportunidades remotas (nacionais e internacionais) como Backend Developer.
 
-## 📈 Projetos em Destaque
+---
 
-- [HEP-AI](https://github.com/gtorr-s/HEP-AI): Modelo preditivo para diagnóstico de doenças hepáticas utilizando machine learning.
+## ⚒️ Principais Tecnologias
 
-- [MICK](https://github.com/gtorr-s/MICK)
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=java)
+![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-000?style=flat&logo=spring)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux)
 
-## 📫 Contato
+---
 
-- [LinkedIn](https://www.linkedin.com/in/-gtorr)
+## 💼 Projetos em Destaque
 
+- [HEP-AI](https://github.com/gtorr-s/HEP-AI) – Previsão de doenças hepáticas com Machine Learning
+- [MICK](https://github.com/gtorr-s/MICK) – Site institucional com foco em SEO, responsividade e performance
+- Em breve: API de rastreamento de entregadores em tempo real com WebSocket 🚴
+
+---
+
+## 📫 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-gtorr)
+📧 Email: gabrielcrispino.tor@gmail.com
