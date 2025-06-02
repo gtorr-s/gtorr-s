@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou o Gabriel Crispino Torres</h1>
 
 <p align="center">
-Desenvolvedor Backend focado em Python & Java | APIs REST • PostgreSQL • Docker • Flask • Spring Boot
+Desenvolvedor Backend focado em Python | APIs REST • PostgreSQL • Docker • Flask • Spring Boot
 </p>
 
 ---
